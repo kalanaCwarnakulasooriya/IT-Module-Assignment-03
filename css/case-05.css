@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+}
+.container{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+height: 100vh;
+}
+.box{
+border: 1px solid black;
+
+}
+.box1{
+background-color: red;
+}
+.box2{
+background-color: green;
+}
+.box3{
+background-color: rgba(234, 95, 15, 0.923);
+}
+.box4{
+background-color: purple;
+}
+.box5{
+background-color: rgb(205, 63, 174);
+}
+.box6{
+background-color: blue;
+}
+.box7{
+background-color: brown;
+}
+.box8{
+background-color: rgb(125, 67, 195);
+}
+.box9{
+background-color: rgb(76, 10, 138);
+}
+.box10{
+background-color: yellow;
+}
+.box11{
+background-color: lightslategray;
+}
+.box12{
+background-color: cyan;
+}
